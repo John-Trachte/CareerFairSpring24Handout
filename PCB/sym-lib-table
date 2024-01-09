@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PCB-USB")(type "KiCad")(uri "${KIPRJMOD}/PCB-USB.kicad_sym")(options "")(descr ""))
+)

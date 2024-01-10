@@ -1104,8 +1104,8 @@
     (property "Datasheet" "" (id 3) (at 121.285 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 6b847b8a-c935-4366-8f7b-7cdbe96384da))
     (pin "1" (uuid eb14ae89-b776-4a7c-b1cb-51227ede5631))
+    (pin "2" (uuid 6b847b8a-c935-4366-8f7b-7cdbe96384da))
   )
 
   (symbol (lib_id "MCU_ST_STM8:STM8S003F3P") (at 102.87 100.33 0) (unit 1)

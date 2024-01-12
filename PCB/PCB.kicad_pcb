@@ -171,7 +171,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.125)))
       (tstamp 6b8ac91e-9d2b-49db-8a80-1da009ad1c5e)
     )
-    (fp_text value "STM8S003F3P" (at 0 4.2) (layer "F.Fab")
+    (fp_text value "STM8S103F3P" (at 0 4.2) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c7f7bd58-1ebd-40fd-a39d-a95530a751b6)
     )

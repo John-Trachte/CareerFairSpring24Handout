@@ -1,4 +1,4 @@
-### STM8S103F2P6TR Datasheet - STMicroelectronics
+### STM8S103F3P6 Datasheet - STMicroelectronics
 - Register map				     (6.2)
 	- Found at: https://www.st.com/content/ccc/resource/technical/document/datasheet/ce/13/13/03/a9/a4/42/8f/CD00226640.pdf/files/CD00226640.pdf/jcr:content/translations/en.CD00226640.pdf
 

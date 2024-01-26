@@ -1,4 +1,4 @@
-CC = sdcc
+CC 			= sdcc
 
 MAIN		=  src/main/main.c
 CFLAGS		= -lstm8 -mstm8 --out-fmt-ihx --std-sdcc11
